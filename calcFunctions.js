@@ -196,7 +196,7 @@ function switchToDark(){
   }else if(saveClicksChange === 14){
     bodyChange.classList.toggle('party');
   }else if(saveClicksChange === 30){
-    bodyChange.innerHTML = '<img src="./img/explosion.gif" alt="exploto el codigo" style="witdh:100%;height:100%;">';
+    bodyChange.innerHTML = '<img src="./explosion.gif" alt="exploto el codigo" style="witdh:100%;height:100%;">';
     setTimeout(byeCode, 3000)
   }
 }
