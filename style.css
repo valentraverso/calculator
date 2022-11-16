@@ -5,6 +5,7 @@
 body{
   background-color: #ebebeb;
   height: 90vh;
+  transition: ease 0.8s;
 }
 .calculatorBody{
   width: 50%;
